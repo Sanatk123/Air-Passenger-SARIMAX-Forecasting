@@ -487,9 +487,12 @@ Possible future improvements include:
 
 ---
 
-# 👨‍💻 Author
+# 👨‍💻 GROUP
 
-**Mohammed Rishan P**
+**FATHIMA SANA TK
+  MUNAVVIRA EP
+  MUHAMMED SUNNOON
+  NASHWA VP**
 
 B.Tech Computer Science & Engineering
 Artificial Intelligence & Machine Learning
