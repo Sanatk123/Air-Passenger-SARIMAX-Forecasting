@@ -28,6 +28,12 @@ This project uses historical passenger data to:
 
 ---
 
+Live Streamlit App
+
+Try the deployed application:
+
+https://air-passenger-sarimax-forecasting-gnfum4ncnvzakqbwmmfefq.streamlit.app/
+
 ## 🧠 Technologies Used
 
 | Technology   | Purpose                    |
